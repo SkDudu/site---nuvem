@@ -56,3 +56,4 @@ $ npm start
 ```
 
 ### Contribuições são sempre bem-vindas! Para contribuir lembre-se de adicionar testes com novas classes e com a documentação.
+ 
